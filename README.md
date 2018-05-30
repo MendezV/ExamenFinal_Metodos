@@ -1,4 +1,4 @@
-# SimulacroExamen
+# Examen
 Simulacro de examen final
 
 # Instrucciones
